@@ -1,12 +1,12 @@
 # 🔐 Spring Security + JWT Authentication 
 
-This project demonstrates how to implement authentication and authorization using Spring Security and JSON Web Tokens (JWT) in a RESTful API.
+This project shows how to build a secure login system using Spring Security and JWT (JSON Web Tokens) in a REST API.
 
-It showcases how users can securely log in and access protected resources by passing a Bearer Token in the Authorization header.
+After logging in, users get a token which they can use to access protected APIs.
 
 ## 🚀 Features
 
-- User Authentication using Email & Password
+- Login using email and password
 - JWT Token Generation on Login
 - Stateless Session Management
 - Secure REST APIs using Spring Security
