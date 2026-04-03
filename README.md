@@ -1,4 +1,5 @@
 # 🔐 Spring Security + JWT Authentication 
+by Lakshay Raina
 
 This project shows how to build a secure login system using Spring Security and JWT (JSON Web Tokens) in a REST API.
 
